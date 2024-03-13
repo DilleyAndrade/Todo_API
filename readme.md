@@ -38,20 +38,20 @@
 
 <h4>Instalação</h4>
 
-<p>1.<bold>Clonar o repositório</bold></p>
+<p>1.<b>Clonar o repositório</b></p>
 
 <p>Primeiro, clone este repositório para sua máquina local usando o Git clone</p>
 
 
-<p>2.<bold>Instalar dependências</bold></p>
+<p>2.<b>Instalar dependências</b></p>
 
 <p>Em seguida, instale as dependências do projeto utilizando o npm: npm i</p>
 
-<p>3.<bold>Instale o MongoDB localmente</bold></p>
+<p>3.<b>Instale o MongoDB localmente</b></p>
 
 <p>Inicie o mongoose no terminal com o comando: mongosh</p>
 
-<p>4.<bold>Iniciar o servidor</bold></p>
+<p>4.<b>Iniciar o servidor</b></p>
 
 <p>Por fim, inicie o servidor: npm run dev</p>
 
