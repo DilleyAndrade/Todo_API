@@ -1,0 +1,22 @@
+{
+  "name": "mytodo",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Desafio do Projeto: Construção de uma API de ToDo em Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/app.js",
+    "dev": "NODE_ENV=DEVELOPMENT nodemon backend/app.js",
+    "prod": "NODE_ENV=PRODUCTION nodemon backend/app.js"
+  },
+  "author": "Dilley Andrade",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "mongoose": "^8.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
